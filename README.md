@@ -26,7 +26,7 @@ The framework's approach is designed to reduce manual intervention in generating
 
 - `src/`: Contains the source code for the AutoSceneGen framework.
 - `data/`: Example accident videos and datasets for scenario generation and testing.
-- `docs/`: Detailed documentation of the framework, including a step-by-step guide for using the framework.
+- `doc/`: Detailed documentation of the framework, including a step-by-step guide for using the framework.
 
 
 ## License
