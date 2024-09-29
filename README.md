@@ -28,6 +28,10 @@ The framework's approach is designed to reduce manual intervention in generating
 - `data/`: Example accident videos and datasets for scenario generation and testing.
 - `doc/`: Detailed documentation of the framework, including a step-by-step guide for using the framework.
 
+## Notice
+
+The relevant code, dataset, and demonstration video are currently being organized. Please be patient and wait for further results.
+
 
 ## License
 
